@@ -1,2 +1,3 @@
-# coursera-test
-Coursera test repository
+# learning-website-demo
+My first git test repository.
+Author - Aira Ejaz 
